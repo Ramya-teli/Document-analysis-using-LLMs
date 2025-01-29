@@ -15,6 +15,7 @@ Large Language Models (LLMs) like OpenAI's GPT and other advanced NLP tools have
 ## 🛠 **Technologies Used**
 
 - **Python**: Primary programming language.
+- **Java**: Used for text processing and tokenization in large-scale systems.
 - **NLTK (Natural Language Toolkit)**: For tokenization and basic text processing.
 - **Transformers**: For using pre-trained language models like GPT.
 - **Pandas**: To manage and structure document data efficiently.
